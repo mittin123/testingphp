@@ -7,10 +7,12 @@
 	
 </script>
 <style type="text/css" media="screen">
-	
+	.red{
+		color: red;
+	}
 </style>
 <body>
-	<div class="w3-red">
+	<div class="red">
 		<?php 
 			echo 'Hello World'; 
 		?>
