@@ -17,6 +17,7 @@
 		<?php 
 			echo 'Hello Gay'; 
 		?>
+		<<img src="https://ih1.redbubble.net/image.686871229.3288/flat,800x800,070,f.u1.jpg" alt="">
 	</div>
 
 </body>
