@@ -14,7 +14,7 @@
 <body>
 	<div class="red">
 		<?php 
-			echo 'Hello World'; 
+			echo 'Hello Gay'; 
 		?>
 	</div>
 
